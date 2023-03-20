@@ -11,3 +11,4 @@ To play this game in interactive mode, just navigate to the location of this pro
 
 ## Demo 
 <img src = "https://github.com/dilyar85/chess/blob/master/screenshots/example.gif" alt = "demo">
+doing some changes in private repos..
