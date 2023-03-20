@@ -7,7 +7,7 @@ To play this game in interactive mode, just navigate to the location of this pro
 
 ## Screenshot
 <img src = "https://github.com/dilyar85/chess/blob/master/screenshots/main-screenshot.png" alt = "main screenshot">
-   
+   aa
 
 ## Demo 
 <img src = "https://github.com/dilyar85/chess/blob/master/screenshots/example.gif" alt = "demo">
